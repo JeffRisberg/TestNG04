@@ -1,8 +1,0 @@
-<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Tests" parallel="true">
-    <test name="Tests">
-        <packages>
-            <package name="com.company.*" />
-        </packages>
-    </test>
-</suite>

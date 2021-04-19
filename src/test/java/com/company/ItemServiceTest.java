@@ -39,6 +39,7 @@ public class ItemServiceTest {
     when(itemStore.readAllItems()).thenReturn(mockedItems);
 
     itemService = new ItemService(itemStore);
+    log.info("setUp");
   }
 
   @Test
