@@ -1,3 +1,3 @@
 # TestNG04
 
-Shows the DataProvider interface usage, and the report/listener interfaces usage.
+Shows the ITestListener and IReporter interface usage
